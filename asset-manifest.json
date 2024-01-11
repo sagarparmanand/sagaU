@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sagaU/static/css/main.23dc9a9e.css",
+    "main.js": "/sagaU/static/js/main.153a0bb5.js",
+    "static/js/787.61fad201.chunk.js": "/sagaU/static/js/787.61fad201.chunk.js",
+    "static/media/logo.svg": "/sagaU/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sagaU/index.html",
+    "main.23dc9a9e.css.map": "/sagaU/static/css/main.23dc9a9e.css.map",
+    "main.153a0bb5.js.map": "/sagaU/static/js/main.153a0bb5.js.map",
+    "787.61fad201.chunk.js.map": "/sagaU/static/js/787.61fad201.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23dc9a9e.css",
+    "static/js/main.153a0bb5.js"
+  ]
+}
